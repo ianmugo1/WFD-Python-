@@ -10,7 +10,10 @@ This part of the project implements two Python classes:
 
 This serves as the foundation for parts B and C of the project.
 
-Part B: Unit Testing
+---
+
+
+# Part B: Unit Testing
 
 This file (PartB.py) contains tests for the House and Penthouse classes from Part A. It uses Python’s built-in unittest module.
 
